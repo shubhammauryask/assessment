@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143221275783",
+    "project_id": "assessment-f924d",
+    "storage_bucket": "assessment-f924d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143221275783:android:5861ff2ebd76603cc6cc22",
+        "android_client_info": {
+          "package_name": "com.example.assessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143221275783-hr35nsc96hdgmq1n2ai753fqsnommumk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjzau6u222bkXdeCnCnppuKvDPImyhCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143221275783-hr35nsc96hdgmq1n2ai753fqsnommumk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
